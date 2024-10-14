@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
 // @description  Makes the flag larger on S1 and removes the infobox
-// @author       Seanat (aka Yuuka, CatgirlCultist, cbp105)
+// @author       Seanat
 // @match        https://www.nationstates.net/*page=deck*
 // @icon         https://www.google.com/s2/favicons?domain=nationstates.net
 // @grant        none
